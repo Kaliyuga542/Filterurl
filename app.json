@@ -1,3 +1,33 @@
+{
+    "name": "ᎯℕUℛᎯᎶ",
+    "description": "Clone Of ᎯℕUℛᎯᎶ & More Features Added",
+    "stack": "container",
+    "logo": "https://telegra.ph/file/9ee1253e36b37a1665ce2.jpg",
+    "keywords": [
+      "telegram",
+      "auto-filter",
+      "filter",
+      "best",
+      "indian",
+      "pyrogram",
+      "media",
+      "search",
+      "channel",
+      "index",
+      "inline"
+    ],
+    "website": "https://github.com/AM-ROBOTS/AM-ROBOTS",
+    "repository": "https://github.com/AM-ROBOTS/AM-ROBOTS",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Your bot token.",
+            "required": true
+        },
+        "API_ID": {
+            "description": "Get this value from https://my.telegram.org",
+            "required": true
+        },
+        "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
             "required": true
         },
